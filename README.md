@@ -6,6 +6,8 @@
 
 This package provides routines to perform operation with matices using GPU-Accelerated CUDA libraries.
 
+*Important* This libraries requieres CUDA Toolkit installed: https://developer.nvidia.com/cuda-downloads
+
 Author: Alonso Vidales <alonso.vidales@tras2.es>
 
 Use of this source code is governed by a BSD-style. These programs and documents are distributed without any warranty, express or implied. All use of these programs is entirely at the user's own risk.
